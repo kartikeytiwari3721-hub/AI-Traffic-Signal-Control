@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+ultralytics
+gymnasium
+stable-baselines3
+traci
+sumolib
