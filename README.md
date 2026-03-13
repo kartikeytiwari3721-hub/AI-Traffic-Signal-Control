@@ -130,13 +130,3 @@ Unlike traditional systems, Smart Flow:
 * **Weather Adaptation**: Dynamically adjust for adverse weather conditions
 * **Citywide Deployment**: Scale from individual intersections to citywide traffic optimization
 * **Public API**: Provide traffic prediction data for navigation apps and urban planners
-
-## 👥 Team Members
-
-| Name | GitHub |
-|--------|----------|
-| Om Mukherjee | [GitHub](https://github.com/meekhumor) |
-| Abhishek Kotwani | [GitHub](https://github.com/Abhi-sheKkK) |
-| Aryan Yadav | [GitHub](https://github.com/Aryan-y-77) |
----
-
