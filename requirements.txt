@@ -6,3 +6,5 @@ gymnasium
 stable-baselines3
 traci
 sumolib
+Flask
+gunicorn
